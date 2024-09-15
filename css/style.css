@@ -74,7 +74,7 @@ header #logo img{
 /* NAVIGATION*/
 nav {
   float: right;
-  padding: 25px 20px 0px 0px;
+  padding: 25px 20px 0 0;
 }
 
 #menu-icon {
@@ -187,7 +187,6 @@ footer {
   float: left;
   width: 60%;
   padding: 4% 4% 2% 0;
-  font-size:
 }
 
 .footer-nav {
